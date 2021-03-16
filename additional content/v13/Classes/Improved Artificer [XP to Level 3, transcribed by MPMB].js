@@ -585,10 +585,10 @@ ClassList["improved artificer"] = {
 					]
 				}
 			},
-			"sniper rifle: increase rate of fire (2 invention points)" : {
+			"sniper rifle: increase rate of fire (1 invention points)" : {
 				name : "Sniper Rifle: Increase Rate of Fire",
 				source : ["XPtL3:IA", 6],
-				description : " [2 points]\n   I can now fire a sniper rifle 5 times before needing to reload",
+				description : " [1 points]\n   I can now fire a sniper rifle 5 times before needing to reload",
 				calcChanges : {
 					atkAdd : [
 						function (fields, v) {
